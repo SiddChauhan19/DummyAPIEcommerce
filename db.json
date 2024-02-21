@@ -53,7 +53,7 @@
     },
     {
         "id": "8",
-        "name": "HP All-in-One Desktop PC (8GB/256GB SSD + 1TB HDD/FHD",
+        "name": "HP All-in-One Desktop PC (8GB/256GB SSD + 1TB HDD/FHD)",
         "image": "https://m.media-amazon.com/images/I/61ogPth2lzL._SX679_.jpg",
         "price": 45999,
         "category": "electric"
@@ -121,8 +121,6 @@
         "price": 2199,
         "category": "home"
     }
-
-
 ],
 "profile":{
 	"name":"sid"	
